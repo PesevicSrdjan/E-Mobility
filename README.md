@@ -1,4 +1,4 @@
-# ePJ2 - E-mobility Kompanija
+# E-mobility Kompanija
 
 ## Opis
 
